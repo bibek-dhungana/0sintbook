@@ -1,5 +1,6 @@
 # 0sintbook
 
-- This repo is the simple collection of the osint resources, tools,blogs & many more. Feel free to contribute
+- This repo is the simple collection of the osint tools & resources. Feel free to contribute
 
-# 
+# Facebook-Osint:
+- https://www.sowsearch.info/
