@@ -8,6 +8,8 @@
 - https://intelx.io/tools?tab=facebook
 - https://www.namecheckr.com/
 - https://usersearch.org/
+- https://checkusernames.com/
+- https://namechk.com/
 
 # Twitter-Osint:
 - https://twitter.com/search-advanced
@@ -16,3 +18,8 @@
 - https://www.trendsmap.com/
 - https://www.namecheckr.com/
 - https://usersearch.org/
+- https://checkusernames.com/
+- https://namechk.com/
+
+# Tik-tok:
+- 
