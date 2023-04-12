@@ -4,3 +4,15 @@
 
 # Facebook-Osint:
 - https://www.sowsearch.info/
+- https://lookup-id.com/
+- https://intelx.io/tools?tab=facebook
+- https://www.namecheckr.com/
+- https://usersearch.org/
+
+# Twitter-Osint:
+- https://twitter.com/search-advanced
+- https://developer.twitter.com/en/docs/twitter-api/v1/rules-and-filtering/search-operators
+- https://spoonbill.io/
+- https://www.trendsmap.com/
+- https://www.namecheckr.com/
+- https://usersearch.org/
